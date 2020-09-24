@@ -20,6 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+asset_url: /assets
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -96,7 +97,6 @@ social:
     url: https://github.com/leehalam
     desc: Fork me on GitHub
     share: false
-
 
   # - name: LinkedIn
   #  icon: linkedin
