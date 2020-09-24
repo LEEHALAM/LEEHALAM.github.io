@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Lami's space
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "Welcome to my space"
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
@@ -93,7 +93,7 @@ social:
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/leehalam
     desc: Fork me on GitHub
     share: false
 
